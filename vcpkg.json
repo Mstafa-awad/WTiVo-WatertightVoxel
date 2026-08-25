@@ -1,0 +1,12 @@
+{
+  "name": "wtivo-native-deps",
+  "version-string": "1.0.0",
+  "description": "Native dependencies for WTiVo: WatertightVoxel Optimizer",
+  "supports": "windows & x64",
+  "dependencies": [
+    "cgal",
+    "eigen3",
+    "openvdb",
+    "tbb"
+  ]
+}
