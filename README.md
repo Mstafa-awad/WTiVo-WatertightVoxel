@@ -104,7 +104,7 @@ RTX 20/30/40/50-family GPUs are intended targets, but **the only benchmarked mac
 Clone/download the repository to a short normal Windows path, for example:
 
 ```bat
-git clone https://github.com/Mstafa-awad/WTiVo-WatertightVoxel-Optimizer.git
+git clone https://github.com/Mstafa-awad/WTiVo-WatertightVoxel.git
 cd WTiVo-WatertightVoxel-Optimizer
 Setup-Windows.cmd
 ```
